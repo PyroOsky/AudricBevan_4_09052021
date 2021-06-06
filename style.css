@@ -27,6 +27,10 @@ a:hover {
   background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+li {
+  line-height: 3rem;
+}
+
 .bloc {
   width: 100%;
   clear: both;
@@ -653,7 +657,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: black !important;
 }
 
 .container {
@@ -679,7 +683,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -755,7 +759,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 40px 40px 40px 40px;
 }
 
