@@ -9,6 +9,16 @@
   margin: auto;
 }
 
+.fixed-size-logo1 {
+  height: 40px;
+  width: 214px;
+}
+
+.fixed-size-logo2 {
+  height: 100px;
+  width: 100px;
+}
+
 blockquote {
   font-style: italic;
 }
@@ -796,7 +806,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #c27956;
 }
 
 .tc-white {
@@ -804,12 +814,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #c27956;
   color: #ffffff !important;
 }
 
 .btn-atomic-tangerine:hover {
-  background: #c27956 !important;
+  background: #f3976c !important;
   color: #ffffff !important;
 }
 
