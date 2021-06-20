@@ -9,11 +9,6 @@
   margin: auto;
 }
 
-.fixed-size-logo1 {
-  height: 40px;
-  width: 214px;
-}
-
 .fixed-size-logo2 {
   height: 100px;
   width: 100px;
@@ -806,15 +801,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #A8512A
+  background-color: #a8512a;
 }
 
 .tc-white {
-  color: #ffffff  !important;
+  color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
-  background: #A8512A;
+  background: #a8512a;
   color: #ffffff !important;
 }
 
@@ -832,7 +827,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #A8512A !important;
+  color: #a8512a !important;
 }
 
 .ltc-atomic-tangerine:hover {
